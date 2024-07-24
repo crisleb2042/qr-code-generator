@@ -35,8 +35,16 @@ node index.js
 
 Follow the prompts to enter a URL. The application will generate a QR code and save it along with the URL in the current directory.
 
+TERMINAL:
+
 ![Terminal Image](./readMe/terminal.png)
+
+OUTPUT:
+
 ![Output](./readMe/output.png)
+
+QR Code Example:
+
 ![QR Code](./readMe/url.png)
 
 ## Dependencies
